@@ -1,0 +1,91 @@
+FC经典音乐集1
+日期: 2024.5.31 - 2024.7.14
+作者: FlameCyclone
+主页: http://flamecyclone.ysepan.com/
+
+ROM信息概要:
+Mapper 号: 5
+Mapper name: MMC5
+PRG ROM: 1024 KB
+CHR ROM: 8 KB
+
+游戏音乐内容:
+01.魂斗罗(Contra)
+02.超级魂斗罗(Super Contra)
+03.RAF世界(Raf World)
+04.赤影战士(Kage)
+05.最终任务(Final Mission)
+06.忍者龙剑传(Ninja Gaiden)
+07.忍者龙剑传2 - 暗黑的邪神剑(Ninja Gaiden 2 - The Dark Sword of Chaos)
+08.忍者龙剑传3 - 黄泉的方舟(Ninja Gaiden 3 - The Ancient Ship of Doom)
+09.轰炸人(Bomberman)
+10.轰炸人2(Bomberman 2)
+11.洛克人(Rockman)
+12.洛克人2 - 威利博士之谜(Rockman 2 - Dr. Wily no Nazo)
+13.洛克人3 - 威利博士的末日!(Rockman 3 - Dr. Wily no Saigo!)
+14.洛克人4 - 新的野心!!(Rockman 4 - Aratanaru Yabou!!)
+15.洛克人5 - 布鲁斯的陷阱!(Rockman 5 - Blues no Wana!)
+16.洛克人6 - 史上最大的战斗!!(Rockman 6 - Shijou Saidai no Tatakai!!)
+17.恶魔城(Castlevania)
+18.恶魔城2 - 西蒙的冒险(Castlevania 2 - Simon's Quest)
+19.恶魔城3 - 德拉库拉的诅咒(Castlevania 3 - Dracula's Curse)
+20.恶魔城外传 - 德拉克拉君(Akumajou Special - Boku Dracula Kun)
+21.双截龙(Double Dragon)
+22.双截龙2 - 复仇(Double Dragon 2 - The Revenge)
+23.双截龙3 - 罗塞塔之石(Double Dragon 3 - The Rosetta Stone)
+24.忍者蛙(Battletoads)
+25.忍者蛙与双截龙 - 终极团队(Battletoads & Double Dragon - The Ultimate Team)
+26.吞食天地(Destiny of an Emperor)
+27.吞食天地2(Destiny of an Emperor 2)
+28.松鼠大作战(Chip 'n Dale Rescue Rangers)
+29.松鼠大作战2(Chip 'n Dale Rescue Rangers 2)
+30.忍者神龟 - 激龟快打(Teenage Mutant Ninja Turtles - Tournament Fighters)
+31.冒险岛(Island)
+32.冒险岛2(Island 2)
+33.冒险岛3(Island 3)
+34.冒险岛4(Island 4)
+35.赤色要塞(Jackal)
+36.绿色兵团(Rush'n Attack)
+37.沙罗曼蛇(Salamander)
+38.快打旋风(Mighty Final Fight)
+39.月风魔传(Getsufuu Maden)
+40.1943 - 中途岛海战(1943 - The Battle of Midway)
+41.加纳战机(Gun-Nac)
+42.夏日嘉年华92 - 烈火(Summer Carnival '92 - Recca)
+43.帝国战机(Crisis Force)
+44.龙战士(Dragon Fighter)
+45.鸟人战队 - 喷射人(Choujin Sentai - Jetman)
+46.荒野大镖客(Gun.Smoke)
+47.三目童子(Mitsume ga Tooru)
+48.特救指令(Tokkyuu Shirei)
+49.重装机兵(Metal Max)
+50.坦克大战(Battle City)
+
+操纵杆操作:
+上键:              上一个专辑
+下键:              下一个专辑
+左键:              上一页
+右键:              下一页
+选择 + B/A键:      前10曲/后10曲
+选择 + 上/下键     开启/禁用 自动换曲(90秒换曲)
+开始键:            停止/播放
+
+音乐集特性
+1.节目显示发布年代以及发布公司
+2.绝大部分曲目显示曲目名
+3.长节目名自动滚动并以不同颜色进行显示
+4.底部2行滚动文本随着 忍者蛙, 忍者蛙与双截龙 在播放有 DPCM 的曲子时会随DPCM节拍闪烁
+5.自动播放关闭时, 光标是空心的, 自动播放开启时, 光标是实心的
+
+特别感谢:
+1.GGDJR (哔哩哔哩: 即将迈向大羿的中羿)
+帮忙测试, 提供改进建议并发现bug, 提供部分曲目信息, 发现许多曲目音乐条显示问题.
+2.粉墨登场 (哔哩哔哩: SA-1)
+发现一处IRQ没触发, 于是让我发现是 忍者蛙与双截龙 阻止了我的NMI执行的位置, 才得以解决播放 忍者蛙与双截龙时出现画面抖动问题
+3.Nintendog (哔哩哔哩: Ninsonytendog)
+发现一处调用错误, 虽然不会导致死机
+
+备注:
+1.默认是开启自动换曲的, 如果需要手动换曲, 请按 选择 + 上/下键 进行切换.
+2.此ROM的使用与转载, 必须注明出处.
+3.不可对此ROM进行二次修改编译.
